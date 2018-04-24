@@ -15,4 +15,5 @@ end
 
 def move(array, index, value)
   array[index] = value
+  return array
 end
