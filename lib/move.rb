@@ -13,7 +13,7 @@ def input_to_index(position)
   return index_of_position
 end
 
-def move(array, index, value)
+def move(array, index, value = "X")
   new_value = value.to_s
   array[index] = new_value
 end
