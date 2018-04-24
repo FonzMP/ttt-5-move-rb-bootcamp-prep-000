@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 def input_to_index(position)
   index_of_position = position - 1
-  board.push(index_of_position)
+  board[index_of_position] = "X"
 end
