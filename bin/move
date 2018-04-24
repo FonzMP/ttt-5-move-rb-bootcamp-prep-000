@@ -11,4 +11,4 @@ display_board(board)
 position = gets.strip
 
 position = input_to_index(position)
-move(board, position, "x")
+move(board, position, "X")
