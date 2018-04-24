@@ -13,7 +13,7 @@ def input_to_index(position)
   board[index_of_position] = "X"
 end
 
-def move(display_board, index, value)
+def move(array, index, value)
   value = "X"
 
 end
