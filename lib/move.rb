@@ -12,3 +12,7 @@ def input_to_index(position)
   index_of_position = position_to_int - 1
   board[index_of_position] = "X"
 end
+
+def move(display_board, index, value)
+
+end
