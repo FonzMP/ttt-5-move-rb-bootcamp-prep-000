@@ -14,5 +14,6 @@ def input_to_index(position)
 end
 
 def move(display_board, index, value)
+  value = "X"
 
 end
