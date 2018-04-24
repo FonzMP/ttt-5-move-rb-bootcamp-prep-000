@@ -14,6 +14,5 @@ def input_to_index(position)
 end
 
 def move(array, index, value)
-  value = "X"
 
 end
